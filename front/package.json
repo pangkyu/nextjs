@@ -10,7 +10,16 @@
   "author": "Bae seong-kyu",
   "license": "ISC",
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.16.13",
     "next": "^9.5.5",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-react": "^7.27.0",
+    "eslint-plugin-react-hooks": "^4.3.0"
   }
 }
